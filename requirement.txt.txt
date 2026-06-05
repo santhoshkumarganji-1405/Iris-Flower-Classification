@@ -1,0 +1,17 @@
+Install Python
+      ↓
+Install Libraries
+      ↓
+Load Iris Dataset
+      ↓
+Split Data
+      ↓
+Train Random Forest Model
+      ↓
+Predict Species
+      ↓
+Evaluate Accuracy
+      ↓
+Generate Confusion Matrix
+      ↓
+Upload to GitHub
